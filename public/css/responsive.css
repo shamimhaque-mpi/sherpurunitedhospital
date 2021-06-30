@@ -1,0 +1,209 @@
+@media screen and (max-width: 1024px){
+	.header-navigation #latest_scam{
+		margin-top: 5px;
+	}
+}
+
+@media screen and (max-width: 992px){
+	.header-navigation{
+		margin-right: 0px;
+	}
+	.header-navigation li:last-child{
+		margin-top: 6px;
+	}
+	.small-add{
+		margin-bottom: 15px;
+	}
+	.small-add a img{
+		width: 24%;
+		padding: 15px 11px 0px;
+	}
+	.row .wrapper{
+	 margin: 0px -15px !important;
+	}
+	.singlae-add{
+		margin: 20px 0px 0px;
+	}
+	.aside-ad{
+		float: left;
+		/* margin: 20px 16px 0px; */
+		margin: 20px 14px 0px 15px;
+	}
+	.right-title{
+		text-align: center;
+	}
+	.sub-btn{
+		max-width: 24%;
+	}
+
+}
+
+@media screen and (max-width: 768px){
+	.header-content a{
+		top: 14px;
+	}
+	.added .table > tbody > tr > td:nth-child(3){
+		display: none;
+	}
+}
+@media screen and (max-width: 767px){
+	
+	.header-add{
+		height: 70px;
+	}
+	/* .header-content a{
+		display: none;
+	} */
+	.header-navigation li{
+		margin: 15px 0px 0px 0px;
+	}
+	.adselling-info{
+		margin: 0px;
+	}
+	.footer-item{
+		text-align: center;
+	}
+	.footer-item li {
+	    margin: 0px 10px;
+	    line-height: 2;   
+	}
+	.form-area .col-xs-8{
+		padding: 0px;
+	}
+	.header-content a{
+		position: absolute;
+		top: 40px;
+	}
+	.aside-ad{
+		max-width: 154px;
+	}
+	.sub-btn{
+		max-width: 24%;
+	}
+
+	.added table tr span, 
+	.added table tr #click-marked{
+		display: none;
+	}
+}
+@media screen and (max-width: 640px){
+	.search .input-group{
+		max-width: 100%;
+	}
+}
+@media screen and (max-width: 480px){
+	.aside-ad {
+	    max-width: 130px;
+	    margin: 20px 14px 0px;
+	}
+	.sub-btn{
+		max-width: 24%;
+	}
+	footer{
+		padding: 0px;
+	}
+	.list-responsive li{
+		display: block;
+	}
+	.list-responsive li a{
+		text-decoration: none;
+	}
+	.list-responsive li a:hover{
+		color: #DC2F6A;
+	}
+	.added .table > tbody > tr > td:nth-child(2), .added .table > tbody > tr > td:nth-child(3){
+		display: none;
+	}
+}
+@media screen and (max-width: 360px){
+	.header{
+		height: 165px;
+	}
+	.header-navigation li {
+    	margin: 6px 0px 0px 0px;
+	}
+	.small-add a img{
+		width: 46%;
+		padding: 15px 11px 0px;
+	}
+	.added table tr > td > p:first-child, .added table tr > td > p:last-child{
+		font-size: 14px;
+	}
+	.added table tr > td:nth-child(3), .added table tr > td:nth-child(4){
+		font-size: 14px;
+	}
+	.added table tr > td > img {
+    	width: 50px;
+    	height: 50px;
+	}
+	.content-area p{
+		text-align: justify;
+	}
+	.added .table > tbody > tr > td{
+		padding: 5px;
+	}
+	.header-content h3{
+		display: none;
+	}
+	.header-content a{
+		position: absolute;
+		top: 75px;
+		z-index: 999;
+	}
+	.header-content a {
+	    position: absolute;
+	    top: 9px;
+	    z-index: 999;
+	    left: 25%;
+	}
+	
+	.row-margin-header {
+	    margin-top: 15px;
+	}
+	footer ul li{
+		margin: 0px;
+	}
+	.aside-ad{
+		max-width: 154px;
+		margin: 20px 12px 0px;
+	}
+	.left-title .fa-2x, .right-title .fa-2x{
+		font-size: 1em;
+	}
+	.sub-btn{
+		max-width: 24%;
+	}
+	.res-padding{
+		padding: 0px !important;
+	}
+}
+@media screen and (max-width: 320px){
+	
+	.header-content h3{
+		line-height: 1.5;
+	}
+	.header-content h3 img {
+    margin-right: 55px;
+}
+    .header-add{
+		height: 56px;
+	}
+	.aside-ad {
+		max-width: 142px;
+    	margin: 15px 8px 0px;
+	}
+	.left-title .fa-2x, .right-title .fa-2x{
+		display: none;
+	}
+	.ad-details-title h3{
+		font-size: 20px;
+	}
+	.ad-details-title h4{
+		font-size: 16px;
+	}
+	.sub-btn{
+		max-width: 24%;
+	}
+
+}
+/**style end**/

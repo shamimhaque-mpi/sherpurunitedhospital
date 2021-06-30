@@ -1,0 +1,37 @@
+[22-Oct-2020 12:03:23 asia/dhaka] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/itlabcommy/clinic.freelanceitlab.com/application/controllers/reports/test.php on line 91
+[22-Oct-2020 12:06:43 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/itlabcommy/clinic.freelanceitlab.com/application/views/components/reports/view.php on line 149
+[22-Oct-2020 15:16:35 asia/dhaka] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/itlabcommy/clinic.freelanceitlab.com/application/controllers/reports/test.php on line 130
+[27-Oct-2020 17:15:22 asia/dhaka] PHP Fatal error:  Class 'Barcode' not found in /home/itlabcommy/clinic.freelanceitlab.com/application/controllers/diagnosis/group_wise_diagnosis.php on line 156
+[27-Oct-2020 17:15:52 asia/dhaka] PHP Fatal error:  Call to undefined method group_wise_diagnosis::addJournal() in /home/itlabcommy/clinic.freelanceitlab.com/application/controllers/diagnosis/group_wise_diagnosis.php on line 44
+[29-Oct-2020 16:09:52 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/itlabcommy/clinic.freelanceitlab.com/application/views/components/bank/allTransaction.php on line 108
+[18-Nov-2020 11:24:33 asia/dhaka] PHP Parse error:  syntax error, unexpected 'marketer' (T_STRING) in /home/wwwsurbitan/tithihospital.xyz/application/views/super/includes/aside.php on line 205
+[18-Nov-2020 11:24:34 asia/dhaka] PHP Parse error:  syntax error, unexpected 'marketer' (T_STRING) in /home/wwwsurbitan/tithihospital.xyz/application/views/super/includes/aside.php on line 205
+[18-Nov-2020 14:03:30 asia/dhaka] PHP Fatal error:  Call to undefined function get_left_join() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/salary/payment.php on line 470
+[18-Nov-2020 14:12:30 asia/dhaka] PHP Fatal error:  Call to undefined function get_number_format() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/salary/all-payment.php on line 367
+[18-Nov-2020 14:13:23 asia/dhaka] PHP Fatal error:  Call to undefined function get_number_format() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/salary/all-payment.php on line 367
+[18-Nov-2020 14:54:40 asia/dhaka] PHP Fatal error:  Call to undefined function get_date_format() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/salary/bonus.php on line 150
+[18-Nov-2020 15:08:06 asia/dhaka] PHP Fatal error:  Call to undefined function message_length() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/salary/payment.php on line 96
+[26-Nov-2020 10:11:38 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 10:12:30 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 10:12:51 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 10:14:35 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 10:15:32 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 10:15:42 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 12:27:05 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 15:29:34 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bank/allTransaction.php on line 108
+[26-Nov-2020 15:33:54 asia/dhaka] PHP Fatal error:  Call to undefined method Sort::holder() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/alltest/sort.php on line 8
+[28-Nov-2020 14:50:24 asia/dhaka] PHP Fatal error:  Call to undefined function update() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/alltest/sort.php on line 20
+[28-Nov-2020 18:06:05 asia/dhaka] PHP Parse error:  syntax error, unexpected 'losingInfo' (T_STRING) in /home/wwwsurbitan/tithihospital.xyz/application/views/components/balance/balance_report.php on line 327
+[28-Nov-2020 18:06:26 asia/dhaka] PHP Parse error:  syntax error, unexpected 'losingInfo' (T_STRING) in /home/wwwsurbitan/tithihospital.xyz/application/views/components/balance/balance_report.php on line 327
+[28-Nov-2020 18:06:55 asia/dhaka] PHP Parse error:  syntax error, unexpected 'losingInfo' (T_STRING) in /home/wwwsurbitan/tithihospital.xyz/application/views/components/balance/balance_report.php on line 325
+[28-Nov-2020 18:07:09 asia/dhaka] PHP Parse error:  syntax error, unexpected 'losingInfo' (T_STRING) in /home/wwwsurbitan/tithihospital.xyz/application/views/components/balance/balance_report.php on line 325
+[04-Jan-2021 14:27:56 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/bill.php on line 51
+[04-Jan-2021 14:54:04 asia/dhaka] PHP Fatal error:  Call to undefined function rediract() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/items.php on line 79
+[04-Jan-2021 14:54:23 asia/dhaka] PHP Fatal error:  Call to undefined function rediract_back() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/items.php on line 79
+[04-Jan-2021 14:54:43 asia/dhaka] PHP Fatal error:  Call to undefined function redirect_back() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/items.php on line 79
+[04-Jan-2021 15:08:41 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwsurbitan/tithihospital.xyz/application/views/components/bill/all_bill.php on line 39
+[05-Jan-2021 11:39:33 asia/dhaka] PHP Fatal error:  Call to undefined function rediract() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/bill.php on line 119
+[05-Jan-2021 11:39:50 asia/dhaka] PHP Fatal error:  Call to undefined function rediract() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/bill.php on line 119
+[05-Jan-2021 11:39:52 asia/dhaka] PHP Fatal error:  Call to undefined function rediract() in /home/wwwsurbitan/tithihospital.xyz/application/controllers/bill/bill.php on line 119
+[06-Jan-2021 11:53:40 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwsurbitan/tithihospital.xyz/application/views/components/report/profit_report.php on line 148
+[06-Jan-2021 14:28:25 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwsurbitan/tithihospital.xyz/application/views/components/report/profit_report.php on line 133
